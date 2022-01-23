@@ -1,1 +1,1 @@
-# icicb-react-native-wallet-app
+# icicb-wallet-app
